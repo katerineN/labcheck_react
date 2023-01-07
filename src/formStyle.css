@@ -1,0 +1,21 @@
+.container{
+    width: 50vw;
+    margin: 50px auto;
+
+    h1{
+        text-align: center;
+        margin: 30px 0;
+    }
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.addTasks{
+    width: 100px;
+    margin: 30px 10px;
+    height: 40px;
+    cursor: pointer;
+}
