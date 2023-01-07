@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/labcheck_react/static/css/main.51dc3555.css",
+    "main.js": "/labcheck_react/static/js/main.682ea07d.js",
+    "static/js/787.506b3d90.chunk.js": "/labcheck_react/static/js/787.506b3d90.chunk.js",
+    "index.html": "/labcheck_react/index.html",
+    "main.51dc3555.css.map": "/labcheck_react/static/css/main.51dc3555.css.map",
+    "main.682ea07d.js.map": "/labcheck_react/static/js/main.682ea07d.js.map",
+    "787.506b3d90.chunk.js.map": "/labcheck_react/static/js/787.506b3d90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51dc3555.css",
+    "static/js/main.682ea07d.js"
+  ]
+}
