@@ -10,9 +10,25 @@
     }
 }
 
+table tbody tr td {
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+
 .addTasks{
     width: 100px;
     margin: 30px 10px;
+    height: 40px;
+    cursor: pointer;
+}
+.addStudents{
+    width: 100px;
+    margin: 0px 10px;
     height: 40px;
     cursor: pointer;
 }
